@@ -17,4 +17,9 @@ public class A
     {
         return y + a;
     }
+
+      public static int rndM(int a, int y)
+    {
+        return y - a;
+    }
 }
